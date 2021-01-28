@@ -4,7 +4,6 @@ import glob
 
 from cvae import CVAE
 from utils import *
-import mnist_data
 
 import tensorflow as tf
 import numpy as np
